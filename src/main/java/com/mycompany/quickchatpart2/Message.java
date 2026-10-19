@@ -5,6 +5,7 @@
 package com.mycompany.quickchatpart2;
 // minor update for git history
 // Validation tracking comment
+// Message hash generation utility
 public final class Message {
     private String messageID;
     private int numMessagesSent;

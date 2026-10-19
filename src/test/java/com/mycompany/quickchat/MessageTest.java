@@ -4,6 +4,7 @@
  */
 package com.mycompany.quickchat;
 // Unit test verification check
+
 import com.mycompany.quickchatpart2.Message;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
