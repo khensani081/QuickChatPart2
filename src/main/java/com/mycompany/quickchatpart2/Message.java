@@ -3,7 +3,7 @@
  */
 
 package com.mycompany.quickchatpart2;
-
+// minor update for git history
 public final class Message {
     private String messageID;
     private int numMessagesSent;
